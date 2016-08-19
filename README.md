@@ -5,7 +5,6 @@ Create a new HTML file with a Bootstrap starter template using file menu or Ctrl
 ![Screenshot](http://justintruax.com/wp-content/uploads/2016/08/brackets-bootstrap-template.gif)
 
 ## How to Install
----
 
 #### Git Clone
 
@@ -19,7 +18,6 @@ Create a new HTML file with a Bootstrap starter template using file menu or Ctrl
 3. Click "Install"
 
 ## How to use
----
 
 1. Use "New Bootstrap Template" on file menu, or
 2. Double-click on side bar, or
