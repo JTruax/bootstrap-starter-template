@@ -23,6 +23,6 @@ Create a new HTML file with a Bootstrap starter template using file menu or Ctrl
 1. Use "New Bootstrap Template" on file menu, or
 2. Press Ctrl-alt-B
 
-## Brakcets Theme
+## Brackets Theme
 
 Theme used from screenshot: Raven
