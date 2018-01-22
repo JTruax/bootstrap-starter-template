@@ -6,7 +6,6 @@ Create a new HTML file with a Bootstrap starter template using file menu or Ctrl
 ![Screenshot](https://webgeekstudio.ca/wp-content/uploads/2018/01/bootstrap-framework-start-page.png)
 
 ## How to Install
----
 
 #### Git Clone
 
@@ -20,12 +19,10 @@ Create a new HTML file with a Bootstrap starter template using file menu or Ctrl
 3. Click "Install"
 
 ## How to use
----
 
 1. Use "New Bootstrap Template" on file menu, or
 2. Press Ctrl-alt-B
 
 ## Brakcets Theme
----
 
 Theme used from screenshot: Raven
