@@ -1,6 +1,7 @@
 define(function (require, exports, module) {
-	"use strict";
-
+    
+    	"use strict";
+    
 	var docIndex = 1,
 	    commandId = "new-bootstrap-page",
 	    menuID = "jt.menuID",
@@ -13,7 +14,6 @@ define(function (require, exports, module) {
 		MainViewManager = brackets.getModule("view/MainViewManager"),
 		Menus = brackets.getModule("command/Menus"),
 		bootstrapTemplate = require("text!template/start.html"),
-		sidebar = $("#sidebar"),
 		toolbar = $("#main-toolbar"),
 		menu;
 
@@ -33,12 +33,6 @@ define(function (require, exports, module) {
 		templateHandle(bootstrapTemplate);
 		return new $.Deferred().resolve(doc).promise();
 	}
-
-	sidebar.on('dblclick', 'div', function (e) {
-		if (e.target === this) {
-			newFileHandle();
-		}
-	});
 
 	toolbar.on('dblclick', function (e) {
 		if (e.target === this) {

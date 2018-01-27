@@ -1,8 +1,9 @@
 # [New Bootstrap Template](https://github.com/JTruax/bootstrap-starter-template)
 
-Create a new HTML file with a Bootstrap starter template using file menu or Ctrl-Alt-B or side bar double-click.
+Create a new HTML file with a Bootstrap starter template using file menu or Ctrl-Alt-B.
 
-![Screenshot](http://justintruax.com/wp-content/uploads/2017/08/Bootstrap-Starter-Template-v4.png)
+![Screenshot](https://webgeekstudio.ca/wp-content/uploads/2018/01/Bootstrap-Starter-Template-v5.png)
+![Screenshot](https://webgeekstudio.ca/wp-content/uploads/2018/01/bootstrap-framework-start-page.png)
 
 ## How to Install
 
@@ -20,5 +21,8 @@ Create a new HTML file with a Bootstrap starter template using file menu or Ctrl
 ## How to use
 
 1. Use "New Bootstrap Template" on file menu, or
-2. Double-click on side bar, or
-3. Press Ctrl-alt-B;
+2. Press Ctrl-alt-B
+
+## Brackets Theme
+
+Theme used from screenshot: Raven
