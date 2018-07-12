@@ -1,9 +1,9 @@
 {
     "name": "bootstrap-starter-template",
     "title": "Bootstrap Starter Template",
-    "description": "Create a new HTML file with a minimal Bootstrap template - Currently v4.1.0",
+    "description": "Create a new HTML file with a minimal Bootstrap template - Currently v4.1.2",
     "homepage": "https://github.com/JTruax/bootstrap-starter-template",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "author": "Justin Truax <justin.truax87@gmail.com> (https://webgeekstudio.ca)",
     "license": "MIT",
     "engines": {
