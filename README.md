@@ -2,8 +2,8 @@
 
 Create a new HTML file with a Bootstrap starter template using file menu or Ctrl-Alt-B.
 
-![Screenshot](https://webgeekstudio.ca/wp-content/uploads/2018/01/Bootstrap-Starter-Template-v5.png)
-![Screenshot](https://webgeekstudio.ca/wp-content/uploads/2018/01/bootstrap-framework-start-page.png)
+![Screenshot](http://justintruax.com/blog/wp-content/uploads/2018/11/Bootstrap-Starter-Template-v5.png)
+![Screenshot](http://justintruax.com/blog/wp-content/uploads/2018/11/bootstrap-framework-start-page-1024x451.png)
 
 ## How to Install
 
