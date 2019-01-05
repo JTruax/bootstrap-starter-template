@@ -2,27 +2,26 @@
 
 Create a new HTML file with a Bootstrap starter template using file menu or Ctrl-Alt-B.
 
+
+## Preview
+
 ![Screenshot](http://justintruax.com/bst-1.png)
 ![Screenshot](http://justintruax.com/bst-2.png)
+
 
 ## How to Install
 
 #### Git Clone
-
-1. Under main menu select **Help > Show Extensions Folder**
-2. Git clone this repository inside the folder user.
+1. Under the main menu select **Help > Show Extensions Folder**.
+2. Git clone this repository inside the user folder.
 
 #### Extension Manager
-
-1. Under main menu select **File > Extension Manager...**
-2. Search for "Boostrap Starter Template
-3. Click "Install"
+1. Under the main menu select **File > Extension Manager...**
+2. Search for “_Boostrap Starter Template_”.
+3. Click "Install".
 
 ## How to use
-
-1. Use "New Bootstrap Template" on file menu, or
-2. Press Ctrl-alt-B
+Use “_New Bootstrap Template_” on the file menu, or Press **Ctrl-alt-B**.
 
 ## Brackets Theme
-
 Theme used from screenshot: Raven
