@@ -29,4 +29,4 @@ Theme used from screenshot: Raven
 
 ## Note
 
-The start file is a mirror of the starter template framework from the Bootstrap <a href="https://getbootstrap.com/docs/4.2/examples/" target="_blank">examples</a> page. 
+The HTML file is a duplicate of the starter template framework from the Bootstrap <a href="https://getbootstrap.com/docs/4.2/examples/" target="_blank">examples</a> page. 
