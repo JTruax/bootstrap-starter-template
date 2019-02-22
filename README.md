@@ -25,8 +25,8 @@ Create a new HTML file with a Bootstrap starter template using file menu or Ctrl
 
 ## Brackets Theme
 
-Theme used from screenshot: Raven
+Theme used from screenshot: <a href="https://github.com/JTruax/brackets-theme-raven" target="_blank">Raven</a>
 
 ## Note
 
-The HTML file is a duplicate of the starter template framework from the Bootstrap <a href="https://getbootstrap.com/docs/4.2/examples/" target="_blank">examples</a> page. 
+The HTML file is a duplicate of the starter template framework from the Bootstrap <a href="https://getbootstrap.com/docs/4.3/examples/starter-template/" target="_blank">examples</a> page. 
